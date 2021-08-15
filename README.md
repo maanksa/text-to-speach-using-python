@@ -1,13 +1,4 @@
-# tts-stt
-تحويل الصوت الى نص 
-في الملفات التالية
-transcrib.py
-الناتج محفوظ في 
-stt.txt
-- - - - - - - - - - - - - - - - - -
-تحويل النص الى صوت
-textts.py
-النص مكتوب في 
-Churchill.txt
-الصوت محفوظ في 
-Churchill.mp3
+# Text to speach using python 
+Mp3 file file changed to text and saved 
+
+
